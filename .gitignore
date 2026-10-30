@@ -1,0 +1,9 @@
+shoeTypeClassifierDataset
+Xor_Dataset.csv
+AAPL.csv
+AMD.csv
+drug200.csv
+LNG.csv
+best_model.pth
+rt-polarity.neg
+rt-polarity.pos
